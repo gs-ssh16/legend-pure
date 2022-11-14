@@ -53,8 +53,6 @@ public class TestDSLExecution extends AbstractPureTestWithCoreCompiled
                 "                Anonymous_StripedId instance GenericType\n" +
                 "                    rawType(Property):\n" +
                 "                        [X] Address instance Class\n" +
-                "    name(Property):\n" +
-                "         instance String\n" +
                 "    path(Property):\n" +
                 "        Anonymous_StripedId instance PropertyPathElement\n" +
                 "            classifierGenericType(Property):\n" +
